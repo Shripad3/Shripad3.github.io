@@ -1,5 +1,5 @@
 
-/* Image switcher code
+// Image switcher code
 
 let myImage = document.querySelector('img');
 
@@ -10,7 +10,7 @@ myImage.onclick = function() {
   } else {
     myImage.setAttribute ('src','images/hanuman-image.png');
   }
-}*/
+}
 
 // Personalized welcome message code
 
